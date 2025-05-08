@@ -59,9 +59,9 @@ A web-based platform featuring Maze, Tic-Tac-Toe, and Puzzle games built with Py
 
 ### 📫 Let’s Connect
 
-📧 Mail: sainpriyanshiajay231203@gmail.com *(replace with your email)*  
+📧 Mail: sainpriyanshiajay231203@gmail.com 
 🔗 LinkedIn: [YourLinkedIn](https://linkedin.com/in/priyanshi-sain)  
-*🌐 Portfolio: [YourPortfolio.com](https://your-portfolio.com) (optional)*
+
 
 ---
 
