@@ -52,7 +52,3 @@ VS Code | GitHub | NetBeans | XAMPP | Figma 🎨 | Canva
 
 📧 Mail: sainpriyanshiajay231203@gmail.com  
 🔗 LinkedIn: https://linkedin.com/in/priyanshi-sain  
-
----
-
-> “The future belongs to those who code it. Let’s build something impactful, together.” 🌍  
