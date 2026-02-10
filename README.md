@@ -16,35 +16,26 @@ A passionate developer, lifelong learner, and AI enthusiast from Gujarat, India.
 
 🎓 Pursuing MSc in Computer Science @ Gujarat University  
 🚀 Working on: **Digital Campus Support** – a web app to streamline academic life  
-🎯 Exploring: **TypeScript**, **Tailwind CSS**, **Next.js**, **AI Tools**, and **Chatbots**
+🎯 Exploring: **TypeScript**, **Tailwind CSS**, **AI Tools**, and **Chatbots**
 
 ---
 
 ### 🧠 Skills I Use
 
 **Languages:**  
-Python 🐍 | Java ☕ | C/C++ 💻 | PHP 🌐 | JavaScript ⚡ | TypeScript 💎  
+Python 🐍 | Java ☕ | C/C++ 💻 | PHP 🌐 | JavaScript ⚡ 
 
 **Frontend Stack:**  
-HTML5 | CSS3 | Tailwind CSS 🌬️ | React.js ⚛️ | Next.js 🚀  
+HTML5 | CSS3 | JavaScript | React.js | Tailwind CSS | ShadCN UI  
 
 **Backend & DB:**  
-Firebase 🔥 | MySQL 🐬 | PHP 🐘  
+Python (Flask) | PHP | MySQL 🐬  
+
+**AI / ML Tools & Libraries:**  
+NumPy | scikit-learn | Sentence Transformers | PyPDF2 | Basic ML & DL Concepts  
 
 **Tools & Platforms:**  
-VS Code | GitHub | NetBeans | Figma 🎨 | Canva 
-
----
-
-### 💼 Projects I’m Proud Of
-
-📚 **Digital Campus Support**  
-A smart academic platform for students and faculty  
-🔗 *Coming Soon...*
-
-🧩 **Mini Game Master**  
-A web-based platform featuring Maze, Tic-Tac-Toe, and Puzzle games built with Pygame
-
+VS Code | GitHub | NetBeans | XAMPP | Figma 🎨 | Canva  
 
 ---
 
@@ -59,9 +50,8 @@ A web-based platform featuring Maze, Tic-Tac-Toe, and Puzzle games built with Py
 
 ### 📫 Let’s Connect
 
-📧 Mail: sainpriyanshiajay231203@gmail.com 
-🔗 LinkedIn: [YourLinkedIn](https://linkedin.com/in/priyanshi-sain)  
-
+📧 Mail: sainpriyanshiajay231203@gmail.com  
+🔗 LinkedIn: https://linkedin.com/in/priyanshi-sain  
 
 ---
 
